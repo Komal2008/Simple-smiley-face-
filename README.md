@@ -12,6 +12,9 @@ The goal of this project was to practice:
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-
+  
+## 📸 Screenshot
+![Screenshot]( )
 ## 🎯 Purpose
 This project helped me strengthen my fundamentals of HTML and CSS.
+
