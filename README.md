@@ -14,7 +14,7 @@ The goal of this project was to practice:
 - CSS3
   
 ## 📸 Screenshot
-![Screenshot]( )
+![Screenshot]( https://github.com/Komal2008/Simple-smiley-face-/blob/main/smiley.png)
 ## 🎯 Purpose
 This project helped me strengthen my fundamentals of HTML and CSS.
 
